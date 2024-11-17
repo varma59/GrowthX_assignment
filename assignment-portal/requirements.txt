@@ -1,0 +1,1 @@
+pip install flask flask-pymongo flask-jwt-extended flask-bcrypt
